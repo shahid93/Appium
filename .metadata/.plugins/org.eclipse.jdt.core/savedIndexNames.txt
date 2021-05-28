@@ -5,7 +5,6 @@ INDEX VERSION 1.131+C:\appium\.metadata\.plugins\org.eclipse.jdt.core
 4155066694.index
 1000893301.index
 2425334158.index
-4234658954.index
 3104147617.index
 254442204.index
 2196206729.index
