@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=C\:\\appium\\tutorial1\\.git;C\:\\Users\\shahi\\git\\GitDemo\\.git;
-GitRepositoriesView.GitDirectories.relative=tutorial1\\.git;C\:\\Users\\shahi\\git\\GitDemo\\.git;
+GitRepositoriesView.GitDirectories=C\:\\appium\\tutorial1\\.git;C\:\\appium\\.git;C\:\\Users\\shahi\\git\\GitDemo\\.git;
+GitRepositoriesView.GitDirectories.relative=tutorial1\\.git;.git;C\:\\Users\\shahi\\git\\GitDemo\\.git;
 RepositorySearchDialogDeepSearch=false
 eclipse.preferences.version=1
